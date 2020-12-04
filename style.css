@@ -29,21 +29,14 @@ a:active {
 }
 
 .rbw {
-    background-image: linear-gradient(to left, #00fa9a, #ff77ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #bbc2d2;
 }
 
 .rbw:active {
-    background-image: linear-gradient(to left, #00fa9a, #ff77ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  color: #bbc2d2;
 }
 
 .rbw:hover {
-    background-image: linear-gradient(to left, #00fa9a, #ff77ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
     text-shadow: 0 0 3px #dd85d7, 0 0 5px #FFFFFF;
 }
 
